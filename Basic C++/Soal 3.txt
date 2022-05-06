@@ -1,0 +1,20 @@
+Buatlah sebuah program dalam C++ yang dapat menampilkan angka Fibonacci dengan metode rekursif
+
+Program akan menerima input berupa banyaknya angka Fibonacci yang akan ditampilkan
+Kemudian program akan mencetak angka Fibonacci sesuai input sebelumnya dipisah dengan spasi
+
+Contoh:
+
+Input:
+7
+
+Output:
+1 1 2 3 5 8 13
+
+Input:
+0
+5
+
+Output:
+Input angka positif
+1 1 2 3 5

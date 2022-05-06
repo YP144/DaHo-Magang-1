@@ -1,0 +1,22 @@
+Buatlah sebuah program dalam C++ yang dapat menghitung luas dan keliling dari suatu bangun datar berdasarkan masukan user.
+Dipersilakan untuk menggunakan library math, tetapi hanya untuk perhitungan square root dan power.
+
+Program pertama-tama menerima masukan jenis bangun datar yang dipilih.
+Kemudian user diminta untuk memasukkan parameter yang sesuai dengan bangun datar (misal jari-jari untuk lingkaran, panjang sisi untuk persegi).
+Tampilkan hasil luas dan keliling bangun datar di layar.
+Bangun datar yang wajib diimplementasikan : Lingkaran, Segitiga siku-siku, persegi
+
+Contoh:
+
+Input:
+Bangun datar : *persegi*
+panjang :*5*
+lebar : *4*
+
+
+Output:
+luas : 20
+keliling : 18
+
+
+p.s : *x* berarti x adalah inputan user
